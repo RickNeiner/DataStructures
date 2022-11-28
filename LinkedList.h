@@ -41,7 +41,7 @@ public:
 	virtual ~Node();
 	
 };
-
+jpommkplmlm
 
 class ArrayBasedLinkedList : public ILinkedList
 {
